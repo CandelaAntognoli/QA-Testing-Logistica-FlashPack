@@ -21,7 +21,7 @@ Para maximizar la cobertura con el mínimo de casos, se aplicaron las siguientes
 Durante la ejecución del **TC-011**, se detectó que el sistema permite procesar envíos de 21 kg en lugar de mostrar el mensaje de error "Exceso de peso". Este fallo de lógica representa un riesgo operativo de sobrecarga para la flota logística.
 
 ## 📁 Documentación Adjunta
-* [Informe Técnico Completo](./documentacion/Reporte-Testing-Flash-Pack.pdf).
+* [Informe Técnico Completo]([./documentacion/Reporte-Testing-Flash-Pack.pdf)](https://github.com/CandelaAntognoli/QA-Testing-Logistica-FlashPack/blob/main/Informe/Reporte-Testing-Flash-Pack%20Logística-Candela-Antognoli.pdf).
 * [Presentación Visual de Impacto](./evidencias/Canva-Project-Slides.pdf).
 
 ---
