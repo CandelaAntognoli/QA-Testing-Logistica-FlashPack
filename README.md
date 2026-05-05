@@ -22,7 +22,7 @@ Durante la ejecución del **TC-011**, se detectó que el sistema permite procesa
 
 ## 📁 Documentación Adjunta
 * Informe Técnico Completo [Informe/Reporte-Testing-Flash-Pack Logística-Candela-Antognoli.pdf](https://github.com/CandelaAntognoli/QA-Testing-Logistica-FlashPack/blob/c271172c76349b4d3cded8e7a8f2448e346ecb6c/Informe/Reporte-Testing-Flash-Pack%20Logi%CC%81stica-Candela-Antognoli.pdf)
-* [Presentación Visual de Impacto](./evidencias/Canva-Project-Slides.pdf).
+
 
 ---
 **QA Tester:** Candela Antognoli
